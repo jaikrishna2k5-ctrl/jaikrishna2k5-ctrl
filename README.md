@@ -21,11 +21,7 @@ I work across the full stack of intelligent systems — from a sensor on an ESP-
 That combination led to a patented waste-segregation device that classifies waste offline on a Raspberry Pi, and to published research comparing four deep learning architectures for detecting coronary artery stenosis from angiography images. I'm currently finishing my B.E. in Computer Science (IoT Specialization) at K.L.N. College of Engineering, graduating 2027.
 
 ```
-while (learning) {
-    build();
-    measure();
-    iterate();
-}
+
 ```
 
 ---
